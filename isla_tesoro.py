@@ -36,4 +36,4 @@ elif camino=="selva":
         print("Moriste de sed y hambre "+g_o)
 
 else:
-    print("El camino que elejiste")
+    print("El camino que elejiste no existe")
